@@ -1,0 +1,8 @@
+html:hover,
+body:hover {
+  background-color: pink;
+}
+html:hover #id,
+body:hover #id {
+  display: flex;
+}
